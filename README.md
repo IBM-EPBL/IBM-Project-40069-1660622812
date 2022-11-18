@@ -1,6 +1,6 @@
 # IBM-Project-40069-1660622812
 
-<h2><i>Skill / Job Recommender Application</i></h2>
+<h2>Skill / Job Recommender Application</h2>
 
 <h3>Team Id : PNT2022TMID14208</h3>
 
